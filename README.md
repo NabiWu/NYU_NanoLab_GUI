@@ -30,3 +30,6 @@ IN THIS README, I PROVIDE THE BRIEF INTRODCUTION FOR EACH DIRECTORY OF THIS REPO
 
 
 10. The new_GUI1.0/2.0/3.0 are three folders include all three versions of my GUI. Each version of GUI looks very different but with similiar functionality. All GUIs are labeled in chronoligical order to show how the final version of GUI has been developed. BTW, it is not super important to understand them all as long as you fully understand the final version of GUI. But it is important if you are curious about how it was developed by adding every small features.
+
+
+11. The GUI Manual is a pdf file which could explain basic functionalities and help for control it for measurement.
